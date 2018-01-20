@@ -30,5 +30,5 @@ function dec (a) {
 }
 
 function makeInt (a) {
-  return makeInt("a")
+  return (a)
 }
