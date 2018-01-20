@@ -37,3 +37,8 @@ function makeInt (n) {
   n = parseInt(n, 10)
   return parseInt(n)
 }
+
+function parseFloat(n) {
+  n = parseFloat (n)
+  return parseFloat (n)
+}
