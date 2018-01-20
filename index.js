@@ -34,5 +34,5 @@ function makeInt (a) {
 }
 
 function parseInt (a) {
-  return '0x2328'
+  return 0
 }
