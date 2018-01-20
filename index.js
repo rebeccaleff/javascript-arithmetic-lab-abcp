@@ -33,6 +33,6 @@ function makeInt (a) {
   return (a)
 }
 
-function parseInt (a) {
-  return (a)
+function makeInt (a) {
+  return parseInt(a)
 }
