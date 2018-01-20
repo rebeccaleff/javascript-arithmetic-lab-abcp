@@ -33,6 +33,6 @@ function makeInt (a) {
   return (a)
 }
 
-function base10 (a) {
-  return (a)
+function makeInt (a) {
+  return (0*a)
 }
