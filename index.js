@@ -34,6 +34,6 @@ function makeInt (a) {
 }
 
 function makeInt (n) {
-  n = parseInt(b, 10)
-  return parseInt(b)
+  n = parseInt(n, 10)
+  return parseInt(n)
 }
